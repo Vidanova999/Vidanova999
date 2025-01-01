@@ -1,16 +1,58 @@
-## Hi there 👋
+EvolvingWorld
 
-<!--
-**Vidanova999/Vidanova999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+This project visualizes the evolution of a digital world as the market cap of the Vidanova999 memecoin increases. Each milestone adds new features to the world, creating an engaging and dynamic experience for users and investors.
 
-Here are some ideas to get you started:
+Features
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+World Evolution Stages:
+
+$0–24,999: Pitch blackness (nothing exists yet).
+
+$25,000: A Big Bang event occurs, and a planet is created.
+
+$50,000: A sun appears to bring light to the planet.
+
+$75,000: Grass or land is added, making the planet more habitable.
+
+Future updates will add additional features as higher market caps are reached.
+
+Getting Started
+
+To use this project locally:
+
+Clone the repository:
+
+git clone https://github.com/yourusername/EvolvingWorld.git
+cd EvolvingWorld
+
+Open the index.html file in any modern web browser to view the evolving world.
+
+Use the provided button to simulate market cap increases and see how the world evolves step-by-step.
+
+Project Roadmap
+
+Add higher stages for future milestones (e.g., oceans, life forms, civilization).
+
+Integrate live cryptocurrency market cap data using APIs (e.g., CoinGecko or CoinMarketCap).
+
+Enhance animations and visuals for a more immersive experience.
+
+Implement a token gating system where real coin holders can view or interact with the world.
+
+Contribution Guidelines
+
+We welcome contributions to improve the project! Please follow these steps:
+
+Fork the repository.
+
+Create a feature branch:
+git checkout -b feature/your-feature-name
+
+Commit your changes and push the branch to your fork.
+
+Open a pull request for review.
+
+License
+
+This project is licensed under the MIT License. See the LICENSE file for details.
+
