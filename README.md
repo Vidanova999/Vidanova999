@@ -18,9 +18,9 @@ This is an enhanced version of the EvolvingWorld project. The world evolves auto
 
 ## Usage
 
-1. Deploy the project on a static hosting platform like Vercel.
-2. Watch the world evolve as the market cap increases.
-3. Enjoy an immersive, evolving experience!
+
+1. Watch the world evolve as the market cap increases.
+2. Enjoy an immersive, evolving experience!
 
 ## Technologies Used
 
